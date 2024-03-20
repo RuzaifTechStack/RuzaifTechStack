@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **UI Full Stack and ReactJS**
 
-- 💬 Ask me about **React, JavaScript, Bootstrap, HTML5, CSS3, SASS**
+- 💬 Ask me about **React, JavaScript, Bootstrap, HTML5, CSS3, SASS, NodeJS, ExpressJS, MongoDB, RESTAPI**
 
 - 📫 How to reach me **mohammedruzaif9@gmail.com**
 
