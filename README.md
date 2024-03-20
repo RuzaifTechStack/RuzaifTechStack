@@ -3,7 +3,7 @@
 
 <img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMw8u9XAejBmmCbaNBvfxpgOB4-0I44HhmdA&usqp=CAU" alt="codingImage" width="400px">
 
-- 🌱 I’m currently learning **UI Full Stack and ReactJS**
+- 🌱 Full Stack Web Developer**
 
 - 💬 Ask me about **React, JavaScript, Bootstrap, HTML5, CSS3, SASS, NodeJS, ExpressJS, MongoDB, RESTAPI**
 
